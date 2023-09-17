@@ -1,4 +1,7 @@
-body{
-
-    margin: 0;
+#clockContainer{
+  background-color: red;
+  height: 90vh;
+  width:90vh;
+  background: url(clock.png) no-repeat;
+  background-size: 100%;
 }
